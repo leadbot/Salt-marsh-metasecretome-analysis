@@ -1,6 +1,11 @@
 # Salt-marsh-metasecretome-analysis
 Salt marsh meta-exo-proteome analysis
 
-![Test Image 1](https://github.com/leadbot/Salt-marsh-metasecretome-analysis/blob/master/Cage%20tide.jpg)
+![Saltmarsh layout](https://github.com/leadbot/Salt-marsh-metasecretome-analysis/blob/master/Cage%20tide.jpg)
 
 Here you will find consolidated scripts, package dependencies and inputs required to replicate our analyses
+
+![Cage deployment](https://github.com/leadbot/Salt-marsh-metasecretome-analysis/blob/master/Figure3.png)
+
+
+![Cage deployment](https://github.com/leadbot/Salt-marsh-metasecretome-analysis/blob/master/Schematic%20diag%20-%20NB%26DL%20-%20230719-01.jpg)
