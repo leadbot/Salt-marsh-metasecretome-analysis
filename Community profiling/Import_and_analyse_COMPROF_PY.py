@@ -4,8 +4,6 @@ Created on Sat Jul  7 11:24:44 2018
 
 @author: Dan
 """
-biom18s="table_tax_18s.biom"
-
 
 import pandas as pd
 import numpy as np
@@ -16,9 +14,8 @@ import copy
 import random
 import matplotlib.patches as mpatches
 from matplotlib.gridspec import GridSpec
-####Importing and working with otu and tax tables from R
 
-tax_table_file="tax_table_16S_2018.csv"
+
 otu_table_file="otu_table_16S_2018.csv"
 silva_tax_table="formatted_16s_OTUs_2018_tax_assignments_SILVA_132.txt"
 
@@ -27,9 +24,6 @@ silva_tax_table="formatted_16s_OTUs_2018_tax_assignments_SILVA_132.txt"
 #
 tax_table="tax_table_ITS2_2018.csv"
 otu_table="otu_table_ITS2_2018.csv"
-
-#NB silva 123 database has unusual taxonomy...
-#Rank 1= Domain, Rank 2 =?, Rank 3=Superphyla?, Rank4=kingdom/phylum, Rank5='Class', Rank6='Order', Rank7='genus/family/species'
 
 
 def create_dict_of_otus_at_tax_res_for_picrust(indf, levels):
