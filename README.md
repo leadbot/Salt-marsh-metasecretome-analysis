@@ -8,4 +8,4 @@ Here you will find consolidated scripts, package dependencies and inputs require
 ![Cage deployment](https://github.com/leadbot/Salt-marsh-metasecretome-analysis/blob/master/Images/Figure3.png)
 
 
-![Cage deployment](https://github.com/leadbot/Salt-marsh-metasecretome-analysis/Images/blob/master/Images/Schematic%20diag%20-%20NB%26DL%20-%20230719-01.jpg)
+![Cage deployment](https://github.com/leadbot/Salt-marsh-metasecretome-analysis/blob/master/Images/Schematic%2520diag%2520-%2520NB%26DL%2520-%2520230719-01.jpg)
